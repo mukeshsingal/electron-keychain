@@ -1,0 +1,14 @@
+{
+  "name": "electron-keychain",
+  "version": "1.0.0",
+  "description": "electron based keychain ",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mukesh Singal",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
